@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kevin Rodriguez. I am 25 years old and currently working as a Network Security Engineer based out of Palm Bay, FL. I currently hold a bachelor's degree in computer engineering and a master's degree in cyber security and information assurance. I also currently hold serveral industry standard certification including CCNA, ISC2 CC, CompTIA CySA+, and CompTIA PenTest+. 
+- 👋 Hi, I’m Kevin Rodriguez. I am 25 years old and currently working as a Network Security Engineer based out of Palm Bay, FL.
+- I currently hold a bachelor's degree (B.S.) in Computer Engineering and a master's degree (M.S.) in Cyber Security and Information Assurance. I also currently hold serveral industry standard certifications including: Cisco Certified Networking Associate (CCNA), ISC2 Certified in Cyber Security (CC), CompTIA CySA+, and CompTIA PenTest+. 
 - 👀 I’m interested in Cybersecurity, specifically ethical hacking and red teaming objectives. I also like to work on my fitness goals and play MMO RPGs. 
 - 🌱 I’m currently learning ethical hacking basics, going through TryHackMe and HackTheBox modules. After moving through the modules, onto studying for the OSCP.
 - 💞️ I’m looking to collaborate on ethical hacking projects for practice and network in the industry.
